@@ -23,12 +23,11 @@ Me encanta **aprender a maquetar sitios web y dar mis primeros pasos en el desar
 ---
 
 ### Mis Estadísticas en GitHub
+[![GitHub Streak](https://streak-stats.demolab.com?user=SGAUN&theme=monokai&locale=es)](https://git.io/streak-stats)
 
-[![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com?user=sgaun&theme=vision-friendly-dark&locale=es)](https://git.io/streak-stats)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=sgaun&theme=monokai&show_icons=true&locale=es)
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=sgaun&theme=vision-friendly-dark&show_icons=true&locale=es)
-
-![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=sgaun&layout=compact&theme=vision-friendly-dark&locale=es)
+![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=sgaun&layout=compact&theme=monokai&locale=es)
 
 ---
 
